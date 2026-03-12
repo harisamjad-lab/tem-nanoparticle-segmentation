@@ -4,11 +4,6 @@ Image Processing
 
 Classical segmentation using:
 Gaussian + CLAHE + Global Otsu Threshold + Distance Transform + Watershed
-
-Muhammad Haris Amjad
-Shahmir Javed
-Hamza Khalid
-
 """
 
 import cv2
